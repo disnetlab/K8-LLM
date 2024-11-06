@@ -52,7 +52,7 @@ On Windows: set BEARER_TOKEN=your_token_here
 Modify the ```generate_eval.py``` if you consider using different model/platform.
 
 ## Run Generator
-Modify and run ```generate_trace.py``` with desired model, request rate, cluster nodes IPs and request payload. 
+Modify and run ```run_generator.py``` with desired model, request rate, cluster nodes IPs and request payload. 
 
 For more details on configuration options for the payload, refer to the [Ollama API](https://github.com/ollama/ollama/blob/main/docs/api.md).
 
